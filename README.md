@@ -15,9 +15,8 @@
 - Clean and modern user interface.
 
 ## Screenshots
-![Homepage Screenshot](assets/1.png)
-![Homepage Screenshot](assets/2.png)
-
+![Screenshot](assets/1.png)
+![Screenshot](assets/2.png)
 
 ## Usage
 1. Launch the platform by opening this [link](https://videonexus.netlify.app/).
