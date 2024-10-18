@@ -24,10 +24,13 @@
 3. Click on any video to start playback.
 
 ## Technologies Used
-- **HTML** – for the structure and content.
-- **CSS** – for the styling and layout of the platform.
-- **JavaScript** – for dynamic functionality and user interactions.
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/yourusername/videonexus/issues) for more information.
+Feel free to check out the [issues page](https://github.com/miansaadtahir/videonexus/issues) for more information.
+
+## License
+Distributed under the MIT License. See `LICENSE` for more details.
