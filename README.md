@@ -15,8 +15,9 @@
 - Clean and modern user interface.
 
 ## Screenshots
-![Homepage Screenshot](assets/1.png)
-![Homepage Screenshot](assets/2.png)
+![Screenshot](assets/1.png)
+![Screenshot](assets/2.png)
+![Screen Rec](assets/rec.webm)
 
 
 ## Usage
