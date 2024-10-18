@@ -34,4 +34,4 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check out the [issues page](https://github.com/miansaadtahir/videonexus/issues) for more information.
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more details.
+Distributed under the MIT License. See [LICENSE](./LICENSE) for more details.
