@@ -4,23 +4,23 @@
 
 ## Table of Contents
 - [Features](#features)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
+- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Browse videos across various categories.
-- Fully responsive design for mobile, tablet, and desktop views.
 - Simple and intuitive video playback controls.
-- Search functionality to quickly find videos.
 - Clean and modern user interface.
 
 ## Screenshots
+![Homepage Screenshot](assets/1.png)
+![Homepage Screenshot](assets/2.png)
+
 
 ## Usage
-1. Launch the platform by opening `index.html`.
+1. Launch the platform by opening this [link](https://videonexus.netlify.app/).
 2. Browse through the video categories.
 3. Click on any video to start playback.
 
