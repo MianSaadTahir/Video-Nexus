@@ -17,8 +17,6 @@
 ## Screenshots
 ![Screenshot](assets/1.png)
 ![Screenshot](assets/2.png)
-![Screen Rec](assets/rec.webm)
-
 
 ## Usage
 1. Launch the platform by opening this [link](https://videonexus.netlify.app/).
