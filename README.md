@@ -4,7 +4,6 @@
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
@@ -18,19 +17,18 @@
 - Search functionality to quickly find videos.
 - Clean and modern user interface.
 
+## Screenshots
+
 ## Usage
 1. Launch the platform by opening `index.html`.
 2. Browse through the video categories.
 3. Click on any video to start playback.
 
 ## Technologies Used
-- **HTML**
-- **CSS**
-- **JavaScript**
+- HTML
+- CSS
+- JavaScript
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
 Feel free to check out the [issues page](https://github.com/miansaadtahir/videonexus/issues) for more information.
-
-## License
-Distributed under the MIT License. See `LICENSE` for more details.
