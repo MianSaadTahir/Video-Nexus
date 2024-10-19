@@ -17,8 +17,8 @@
 - **UI**: Clean and modern user interface.
 
 ## Screenshots
-![Screenshot](assets/1.png)
-![Screenshot](assets/2.png)
+<img src="assets/1.png" alt="Screenshot" width="75%">
+<img src="assets/2.png" alt="Screenshot" width="75%">
 
 ## Usage
 1. Launch the platform by opening this [link](https://videonexus.netlify.app/).
