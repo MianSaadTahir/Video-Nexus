@@ -6,6 +6,7 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Usage](#usage)
+- [Documentation](#documentation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -23,6 +24,9 @@
 1. Launch the platform by opening this [link](https://videonexus.netlify.app/).
 2. Browse through the video categories.
 3. Click on any video to start playback.
+
+## Documentation
+For a detailed overview of the project and its features, visit the [Documentation](./documentation/VideoNexus.pdf) in the repository.
 
 ## Technologies Used
 - HTML
