@@ -1,7 +1,6 @@
 # Video Nexus
 
-**Video Nexus** is a dynamic video-sharing entertainment platform built using HTML, CSS, and JavaScript. It allows users to explore a wide range of video categories, offering a seamless and enjoyable video playback experience. With its user-friendly design and responsiveness, it delivers a smooth experience across all devices.
-
+**Video Nexus** is a dynamic video-sharing entertainment platform built using HTML, CSS, and JavaScript. It allows users to explore a wide range of video categories, offering a seamless and enjoyable video playback experience.
 ## Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
