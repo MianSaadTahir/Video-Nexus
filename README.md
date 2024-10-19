@@ -26,7 +26,7 @@
 3. Click on any video to start playback.
 
 ## Documentation
-For a detailed overview of the project and its features, visit the [Documentation](./documentation/VideoNexus.pdf) in the repository.
+For a detailed overview of the project and its features, visit the [Documentation](./documentation) in the repository.
 
 ## Technologies Used
 - HTML
