@@ -11,9 +11,9 @@
 - [License](#license)
 
 ## Features
-- Browse videos across various categories.
-- Simple and intuitive video playback controls.
-- Clean and modern user interface.
+- **Categories**: Browse videos across various categories.
+- **Controls**: Simple and intuitive video playback controls.
+- **UI**: Clean and modern user interface.
 
 ## Screenshots
 ![Screenshot](assets/1.png)
