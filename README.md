@@ -30,7 +30,7 @@ For a detailed overview of the project and its features, visit the [Documentatio
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
+- JS
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
