@@ -1,27 +1,26 @@
 # Video Nexus
 
-**Video Nexus** is a dynamic web video entertainment platform built using HTML, CSS, and JavaScript. It allows users to explore a wide range of video categories, offering a seamless and enjoyable video playback experience.
+A dynamic web video entertainment platform built using HTML, CSS, and JavaScript. It allows users to explore a wide range of video categories, offering a seamless and enjoyable video playback experience.
+
 ## Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Usage](#usage)
+- [Live Preview](#live-preview)
 - [Documentation](#documentation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 
 ## Features
-- **Categories**: Browse videos across various categories.
-- **Controls**: Simple and intuitive video playback controls.
-- **UI**: Clean and modern user interface.
+- Browse videos across various categories.
+- Simple and intuitive video playback controls.
+- Clean and modern user interface.
 
 ## Screenshots
 <img src="assets/1.png" alt="Screenshot" width="75%">
 <img src="assets/2.png" alt="Screenshot" width="75%">
 
-## Usage
-1. Launch the platform by opening this [link](https://videonexus.netlify.app/).
-2. Browse through the video categories.
-3. Click on any video to start playback.
+## Live Preview
+1. Click [here](https://videonexus.netlify.app/) to go live.
 
 ## Documentation
 For a detailed overview of the project and its features, visit the [Documentation](./documentation) in the repository.
