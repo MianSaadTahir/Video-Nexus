@@ -9,7 +9,7 @@ A dynamic web video entertainment platform built using HTML, CSS, and JavaScript
 - [Documentation](#documentation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-
+- [License](#license)
 ## Features
 - Browse videos across various categories
 - Simple and intuitive video playback controls
