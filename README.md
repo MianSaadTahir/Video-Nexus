@@ -32,4 +32,8 @@ For a detailed overview of the project and its features, visit the [Documentatio
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/miansaadtahir/videonexus/issues) for more information.
+Feel free to check out the [issues page](https://github.com/miansaadtahir/videonexus/issues).
+
+## License
+
+This project is open source and available under the MIT [License](https://github.com/MianSaadTahir/Video-Nexus/blob/main/LICENSE).
